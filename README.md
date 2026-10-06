@@ -1,20 +1,37 @@
 # Hi 👋 I'm Shreyas H R
 
-🎓 Information Science Student
+🎓 3rd Year Information Science Engineering Student  
+💻 Software Development & Problem Solving Enthusiast  
+🤖 Exploring AI & Generative AI
 
-💻 Currently Learning
-- C Programming
+## 🛠️ Skills
+
+- C
+- Python
+- Java
 - Data Structures & Algorithms
-- Problem Solving
+- Object-Oriented Programming
+- HTML & CSS
 - Git & GitHub
 
-🚀 My Coding Journey
-- Practicing programming and problem solving with C
-- Solving problems on LeetCode
-- Building and documenting projects on GitHub
+## 📚 Currently Learning
 
-📌 Goals
-- Strengthen my programming fundamentals
-- Improve my problem-solving skills
-- Build useful projects
-- Prepare for software development opportunities
+- Data Structures & Algorithms
+- Problem Solving
+- Python
+- Java
+- AI & Generative AI
+
+## 🚀 Coding Journey
+
+- Solving problems on LeetCode
+- Practicing DSA and programming fundamentals
+- Building projects and documenting them on GitHub
+- Improving problem-solving skills
+
+## 🎯 Goals
+
+- Strengthen programming fundamentals
+- Become better at DSA and competitive problem solving
+- Build meaningful software projects
+- Develop skills for software development opportunities
