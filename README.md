@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Shreyas H R
 
-<!--
-**ShreyasHR77/ShreyasHR77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Student
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- C Programming
+- Data Structures & Algorithms
+- Problem Solving
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Coding Journey
+- Practicing programming and problem solving with C
+- Solving problems on LeetCode
+- Building and documenting projects on GitHub
+
+📌 Goals
+- Strengthen my programming fundamentals
+- Improve my problem-solving skills
+- Build useful projects
+- Prepare for software development opportunities
